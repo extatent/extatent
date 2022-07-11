@@ -1,9 +1,14 @@
+<h1 align="center">Hi 👋 I'm extatent</h1>
+<h3 align="center">A Full Stack Developer from Lithuania</h3>
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=extatent&label=Profile%20views&color=5c12df&style=flat">
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/extatent">
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/extatent">
+</p>
 
-#  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ឵឵    ឵឵      **extatent**
+<div align="center">
 
-  ឵឵   ឵឵  ឵឵  ឵឵  ឵឵  ឵឵  ![mega stats](https://github-readme-stats.vercel.app/api?username=extatent&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extatent&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+  <a href="https://dsc.gg/extatent">![discord](https://discord.c99.nl/widget/theme-1/899330127958270044.png)</a>
 
-Discord: extatent#0100
-
-![](https://komarev.com/ghpvc/?username=extatent&color=brightgreen&style=for-the-badge)
+</div>
